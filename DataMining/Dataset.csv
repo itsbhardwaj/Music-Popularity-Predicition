@@ -1,0 +1,85 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Black Panther The Album Music From And Inspired By,1,5qN4HFkapdAOV94XPryVof,Black Panther,spotify:track:5qN4HFkapdAOV94XPryVof,0.625,0.618,0.582,3.84e-06,0.265,-9.454,0.297,90.035,0.48,59
+1,Black Panther The Album Music From And Inspired By,2,3GCdLUSnKSMJhs4Tj6CV3s,All The Stars (with SZA),spotify:track:3GCdLUSnKSMJhs4Tj6CV3s,0.0605,0.698,0.633,0.000194,0.0926,-4.946,0.0597,96.924,0.552,78
+2,Black Panther The Album Music From And Inspired By,3,4LmAnpjlhWTahvRkYR8xJa,X (with 2 Chainz & Saudi),spotify:track:4LmAnpjlhWTahvRkYR8xJa,0.0201,0.768,0.471,0.0,0.268,-8.406,0.259,131.023,0.405,71
+3,Black Panther The Album Music From And Inspired By,4,5jyyPsIGM2yqkZN9R3TmvN,The Ways (with Swae Lee),spotify:track:5jyyPsIGM2yqkZN9R3TmvN,0.0626,0.727,0.72,1.21e-06,0.176,-5.856,0.0488,140.08,0.589,67
+4,Black Panther The Album Music From And Inspired By,5,7bUcBztfGqO7cSI2gMZeCI,Opps (with Yugen Blakrok),spotify:track:7bUcBztfGqO7cSI2gMZeCI,0.152,0.706,0.775,3.32e-05,0.416,-6.819,0.335,127.929,0.847,61
+5,Black Panther The Album Music From And Inspired By,6,0DJBgBiYeSn6n1AXAkFVE8,I Am,spotify:track:0DJBgBiYeSn6n1AXAkFVE8,0.144,0.601,0.583,9.73e-05,0.183,-5.725,0.263,148.785,0.32,65
+6,Black Panther The Album Music From And Inspired By,7,2tPcTFiQF9MbVUyjZ3zDhA,Paramedic!,spotify:track:2tPcTFiQF9MbVUyjZ3zDhA,0.177,0.856,0.652,0.0,0.193,-5.324,0.143,97.017,0.471,69
+7,Black Panther The Album Music From And Inspired By,8,4KXwFI9pgJLpUIAc9oSL8j,Bloody Waters (with Anderson .Paak & James Blake),spotify:track:4KXwFI9pgJLpUIAc9oSL8j,0.185,0.507,0.606,0.0,0.174,-8.758,0.452,180.607,0.202,64
+8,Black Panther The Album Music From And Inspired By,9,1eLSF6HfrRA0AsNmTkUlKx,"King's Dead (with Kendrick Lamar, Future & James Blake)",spotify:track:1eLSF6HfrRA0AsNmTkUlKx,0.00102,0.566,0.724,0.0,0.158,-4.574,0.323,81.774,0.407,66
+9,Black Panther The Album Music From And Inspired By,10,4FpfU1O7WCLBnmwu5XAFk4,Redemption Interlude,spotify:track:4FpfU1O7WCLBnmwu5XAFk4,0.662,0.549,0.449,4.88e-05,0.0866,-13.645,0.104,121.164,0.223,53
+10,Black Panther The Album Music From And Inspired By,11,76iVOVsliCHlWqKuDnCfhE,Redemption (with Babes Wodumo),spotify:track:76iVOVsliCHlWqKuDnCfhE,0.139,0.778,0.765,0.0274,0.123,-7.175,0.128,125.062,0.642,58
+11,Black Panther The Album Music From And Inspired By,12,35cOyocq8Gb6UcT0NWeTwn,Seasons (with Sjava & Reason),spotify:track:35cOyocq8Gb6UcT0NWeTwn,0.28,0.629,0.554,0.0,0.158,-6.759,0.326,126.694,0.308,57
+12,Black Panther The Album Music From And Inspired By,13,5cXg9IQS34FzLVdHhp7hu7,Big Shot (with Travis Scott),spotify:track:5cXg9IQS34FzLVdHhp7hu7,0.00759,0.855,0.478,0.0,0.101,-9.116,0.193,130.018,0.284,69
+13,Black Panther The Album Music From And Inspired By,14,77UjLW8j5UAGAGVGhR5oUK,Pray For Me (with Kendrick Lamar),spotify:track:77UjLW8j5UAGAGVGhR5oUK,0.0762,0.735,0.677,2.17e-05,0.111,-4.979,0.093,100.584,0.188,75
+15,Black Panther The Album Music From And Inspired By,2,2huYMicu5dhoxSIV2dfbb9,All The Stars,spotify:track:2huYMicu5dhoxSIV2dfbb9,0.0511,0.702,0.627,0.000234,0.0924,-4.934,0.0564,96.81,0.535,26
+16,Black Panther The Album Music From And Inspired By,3,6Kq2Gii1bHxtJMrPoTiPDI,X,spotify:track:6Kq2Gii1bHxtJMrPoTiPDI,0.017,0.774,0.46,0.0,0.276,-8.548,0.255,131.035,0.415,12
+17,Black Panther The Album Music From And Inspired By,4,2wiKhzOmpdSaZ69sFd3glF,The Ways,spotify:track:2wiKhzOmpdSaZ69sFd3glF,0.0716,0.731,0.687,1.03e-06,0.117,-5.79,0.0499,140.072,0.617,5
+18,Black Panther The Album Music From And Inspired By,5,3yu8q2BGFoisTSMyVkJ9GW,Opps,spotify:track:3yu8q2BGFoisTSMyVkJ9GW,0.167,0.761,0.777,0.000162,0.389,-6.874,0.305,128.191,0.848,4
+21,Black Panther The Album Music From And Inspired By,8,3Tt8aaxcUUbJE5iZsu2u6v,Bloody Waters,spotify:track:3Tt8aaxcUUbJE5iZsu2u6v,0.18,0.509,0.605,0.0,0.169,-8.774,0.45,179.967,0.183,1
+22,Black Panther The Album Music From And Inspired By,9,3rkaqzJyWRXKHD2s2zttMq,King's Dead,spotify:track:3rkaqzJyWRXKHD2s2zttMq,0.000898,0.57,0.734,0.0,0.163,-4.697,0.296,82.064,0.407,7
+24,Black Panther The Album Music From And Inspired By,11,1opAPoTGf0rj7vNM1FeoYJ,Redemption,spotify:track:1opAPoTGf0rj7vNM1FeoYJ,0.136,0.781,0.755,0.0284,0.116,-7.184,0.105,125.049,0.644,4
+25,Black Panther The Album Music From And Inspired By,12,6uv9p9o0CuAoAggkhkIKb6,Seasons,spotify:track:6uv9p9o0CuAoAggkhkIKb6,0.238,0.575,0.566,0.0,0.159,-6.435,0.415,126.777,0.311,1
+26,Black Panther The Album Music From And Inspired By,13,22CYKOMO65DR5qUXSfJUVl,Big Shot,spotify:track:22CYKOMO65DR5qUXSfJUVl,0.00796,0.87,0.495,0.0,0.101,-9.108,0.236,130.024,0.249,4
+27,Black Panther The Album Music From And Inspired By,14,3JmRgoKH6c9qeqgLXvHBYS,Pray For Me,spotify:track:3JmRgoKH6c9qeqgLXvHBYS,0.0762,0.735,0.677,2.17e-05,0.111,-4.979,0.093,100.584,0.188,16
+59,DAMN. COLLECTORS EDITION.,4,1o81Mw3tnmFvsi6ipiS7WL,XXX.,spotify:track:1o81Mw3tnmFvsi6ipiS7WL,0.124,0.568,0.617,2.53e-06,0.11,-6.927,0.415,170.146,0.27,1
+73,DAMN. COLLECTORS EDITION.,4,5pVBinqBuY3eBYcOg7x6jD,XXX. FEAT. U2,spotify:track:5pVBinqBuY3eBYcOg7x6jD,0.121,0.569,0.604,1.96e-06,0.113,-7.024,0.41,170.081,0.283,15
+84,DAMN.,1,1n4jwRVXdkK2U34nBDUKKT,BLOOD.,spotify:track:1n4jwRVXdkK2U34nBDUKKT,0.142,0.357,0.238,0.0859,0.55,-16.78,0.265,156.907,0.494,60
+85,DAMN.,2,6HZILIRieu8S0iqY8kIKhj,DNA.,spotify:track:6HZILIRieu8S0iqY8kIKhj,0.00454,0.638,0.523,0.0,0.0842,-6.664,0.357,139.913,0.422,79
+86,DAMN.,3,4BHSjbYylfOH5WAGusDyni,YAH.,spotify:track:4BHSjbYylfOH5WAGusDyni,0.576,0.67,0.7,5.34e-06,0.226,-7.893,0.196,69.986,0.648,64
+87,DAMN.,4,1EaKU4dMbesXXd3BrLCtYG,ELEMENT.,spotify:track:1EaKU4dMbesXXd3BrLCtYG,0.204,0.748,0.705,0.0,0.246,-4.547,0.485,189.891,0.483,71
+88,DAMN.,5,2LTlO3NuNVN70lp2ZbVswF,FEEL.,spotify:track:2LTlO3NuNVN70lp2ZbVswF,0.137,0.746,0.798,0.0,0.139,-8.382,0.349,109.968,0.553,63
+89,DAMN.,6,6SwRhMLwNqEi6alNPVG00n,LOYALTY. FEAT. RIHANNA.,spotify:track:6SwRhMLwNqEi6alNPVG00n,0.0265,0.658,0.535,0.0,0.2,-8.983,0.0573,110.684,0.419,72
+90,DAMN.,7,6IZvVAP7VPPnsGX6bvgkqg,PRIDE.,spotify:track:6IZvVAP7VPPnsGX6bvgkqg,0.0786,0.665,0.535,1.68e-05,0.154,-7.056,0.0572,138.842,0.37,65
+91,DAMN.,8,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,spotify:track:7KXjTSCq5nL1LoYtL7XAwS,0.000282,0.908,0.621,5.39e-05,0.0958,-6.638,0.102,150.011,0.421,83
+92,DAMN.,9,06FCvd7rrRcF3DdvWH5Isp,LUST.,spotify:track:06FCvd7rrRcF3DdvWH5Isp,0.193,0.678,0.562,0.0,0.104,-9.197,0.508,94.241,0.566,63
+93,DAMN.,10,6PGoSes0D9eUDeeAafB2As,LOVE. FEAT. ZACARI.,spotify:track:6PGoSes0D9eUDeeAafB2As,0.264,0.8,0.585,0.0,0.153,-7.343,0.0924,126.058,0.779,78
+94,DAMN.,11,4iYRa2btalAzPZoSYfROqF,XXX. FEAT. U2.,spotify:track:4iYRa2btalAzPZoSYfROqF,0.138,0.568,0.619,1.67e-06,0.11,-6.899,0.414,170.115,0.293,66
+95,DAMN.,12,23luOrEVHMfoX0AhfbQuS6,FEAR.,spotify:track:23luOrEVHMfoX0AhfbQuS6,0.604,0.588,0.479,7.2e-06,0.527,-7.039,0.281,150.414,0.434,64
+96,DAMN.,13,5p3NP9mQblDsVJLdfNZJ3I,GOD.,spotify:track:5p3NP9mQblDsVJLdfNZJ3I,0.0347,0.706,0.557,0.0,0.276,-5.8,0.0813,132.98,0.205,62
+97,DAMN.,14,0y9uTzK9cNKSAEHnpeRG8C,DUCKWORTH.,spotify:track:0y9uTzK9cNKSAEHnpeRG8C,0.0536,0.552,0.731,0.0,0.258,-6.873,0.615,174.516,0.632,63
+103,DAMN.,6,45oAaFlCIvEfgNfeXpgpF9,LOYALTY.,spotify:track:45oAaFlCIvEfgNfeXpgpF9,0.0257,0.679,0.54,0.0,0.174,-8.965,0.057,110.694,0.392,8
+107,DAMN.,10,49duS6xcdUJOh9F1p7qGRL,LOVE.,spotify:track:49duS6xcdUJOh9F1p7qGRL,0.264,0.8,0.585,0.0,0.159,-7.343,0.0921,126.055,0.78,8
+126,untitled unmastered.,1,6OkOFxU6j0UufR97VgSnS7,untitled 01 | 08.19.2014.,spotify:track:6OkOFxU6j0UufR97VgSnS7,0.347,0.58,0.57,0.0,0.0897,-11.749,0.354,102.241,0.143,48
+127,untitled unmastered.,2,3I0FBDc1c1BLNtXWKVjmFg,untitled 02 | 06.23.2014.,spotify:track:3I0FBDc1c1BLNtXWKVjmFg,0.341,0.526,0.506,0.0,0.646,-10.47,0.519,85.349,0.0963,60
+128,untitled unmastered.,3,2fgAJeky8Cpsr8Cfvn2NVp,untitled 03 | 05.28.2013.,spotify:track:2fgAJeky8Cpsr8Cfvn2NVp,0.594,0.825,0.547,2.77e-06,0.149,-12.496,0.263,104.019,0.545,54
+129,untitled unmastered.,4,1U13SSgDOxK98L1FTWYrjQ,untitled 04 | 08.14.2014.,spotify:track:1U13SSgDOxK98L1FTWYrjQ,0.854,0.525,0.121,0.0,0.462,-21.487,0.199,99.905,0.175,48
+130,untitled unmastered.,5,3V8vWoCbKbfjNrPaQ4YtSg,untitled 05 | 09.21.2014.,spotify:track:3V8vWoCbKbfjNrPaQ4YtSg,0.374,0.488,0.63,0.0,0.163,-9.839,0.508,154.152,0.413,51
+131,untitled unmastered.,6,4M2t7bP4Mq87mGMn0PObUX,untitled 06 | 06.30.2014.,spotify:track:4M2t7bP4Mq87mGMn0PObUX,0.0992,0.667,0.558,6.89e-06,0.225,-11.341,0.0433,89.179,0.647,54
+132,untitled unmastered.,7,40IQooNkPRVtn4zlE3ZFpA,untitled 07 | 2014 - 2016,spotify:track:40IQooNkPRVtn4zlE3ZFpA,0.738,0.567,0.455,0.0,0.708,-11.75,0.496,127.002,0.351,59
+133,untitled unmastered.,8,5bBUDJUfGcG7eFy3Bf4fXv,untitled 08 | 09.06.2014.,spotify:track:5bBUDJUfGcG7eFy3Bf4fXv,0.242,0.843,0.527,1.89e-06,0.137,-9.661,0.211,119.987,0.667,56
+150,To Pimp A Butterfly,1,7Ks4VCY1wFebnOdJrM13t6,Wesley's Theory,spotify:track:7Ks4VCY1wFebnOdJrM13t6,0.359,0.509,0.787,2.76e-05,0.26,-6.754,0.265,114.449,0.507,60
+151,To Pimp A Butterfly,2,75izAeHlGuOgA865CFDyIv,For Free? - Interlude,spotify:track:75izAeHlGuOgA865CFDyIv,0.588,0.526,0.896,0.0,0.37,-4.708,0.197,129.313,0.745,55
+152,To Pimp A Butterfly,3,0N3W5peJUQtI4eyR6GJT5O,King Kunta,spotify:track:0N3W5peJUQtI4eyR6GJT5O,0.00589,0.884,0.657,0.0,0.154,-4.569,0.0977,107.059,0.489,72
+153,To Pimp A Butterfly,4,4oFtLSgHyZPNYDCcANhTnO,Institutionalized,spotify:track:4oFtLSgHyZPNYDCcANhTnO,0.112,0.539,0.731,1.19e-06,0.129,-5.085,0.453,81.114,0.568,58
+154,To Pimp A Butterfly,5,7uWVT3UkCAZyANvv0bdyQn,These Walls,spotify:track:7uWVT3UkCAZyANvv0bdyQn,0.11,0.752,0.489,3.57e-06,0.202,-5.233,0.137,108.005,0.373,61
+155,To Pimp A Butterfly,6,1bxEpNR75Hq3T2oF9AZjt8,u,spotify:track:1bxEpNR75Hq3T2oF9AZjt8,0.26,0.406,0.798,0.0,0.461,-5.585,0.432,71.547,0.58,57
+156,To Pimp A Butterfly,7,3iVcZ5G6tvkXZkZKlMpIUs,Alright,spotify:track:3iVcZ5G6tvkXZkZKlMpIUs,0.0742,0.796,0.766,0.0,0.0827,-5.974,0.238,110.034,0.558,70
+157,To Pimp A Butterfly,8,7unx2Rvsq8D0RfOLRXclTA,For Sale? - Interlude,spotify:track:7unx2Rvsq8D0RfOLRXclTA,0.442,0.301,0.686,0.000115,0.121,-8.36,0.0831,79.036,0.276,54
+158,To Pimp A Butterfly,9,0CjJqkWOpIUXdem5hUcxAk,Momma,spotify:track:0CjJqkWOpIUXdem5hUcxAk,0.254,0.615,0.743,0.0,0.665,-4.58,0.325,111.914,0.515,56
+159,To Pimp A Butterfly,10,2UOYzhusMTypF7oAQwksCj,Hood Politics,spotify:track:2UOYzhusMTypF7oAQwksCj,0.145,0.731,0.661,0.0,0.12,-6.562,0.376,87.912,0.369,58
+160,To Pimp A Butterfly,11,4tQcyj5488alHT1ZgFduzn,How Much A Dollar Cost,spotify:track:4tQcyj5488alHT1ZgFduzn,0.415,0.624,0.729,0.0,0.135,-4.747,0.198,87.948,0.334,57
+161,To Pimp A Butterfly,12,72hFOhhhnOJZnnp6uVOgPn,Complexion (A Zulu Love),spotify:track:72hFOhhhnOJZnnp6uVOgPn,0.566,0.665,0.558,4.57e-06,0.219,-7.863,0.303,89.953,0.37,55
+162,To Pimp A Butterfly,13,5Mtt6tZSZA9cXTHGSGpyh0,The Blacker The Berry,spotify:track:5Mtt6tZSZA9cXTHGSGpyh0,0.00713,0.553,0.852,0.0,0.463,-4.08,0.305,176.058,0.27,60
+163,To Pimp A Butterfly,14,7A3ETuOrieyx9KSF0sn0Zf,You Ain't Gotta Lie (Momma Said),spotify:track:7A3ETuOrieyx9KSF0sn0Zf,0.455,0.443,0.635,2.07e-05,0.285,-5.404,0.223,93.742,0.672,56
+164,To Pimp A Butterfly,15,3ODXRUPL44f04cCacwiCLC,i,spotify:track:3ODXRUPL44f04cCacwiCLC,0.708,0.541,0.809,0.0,0.72,-4.286,0.324,120.094,0.753,58
+165,To Pimp A Butterfly,16,1WT11QmhZutciEv1NsHt1R,Mortal Man,spotify:track:1WT11QmhZutciEv1NsHt1R,0.665,0.567,0.525,0.0,0.708,-9.043,0.75,86.935,0.416,53
+240,"good kid, m.A.A.d city (Deluxe)",1,5FF6Pyuh5jW6ybKHiaiGMy,Sherane a.k.a Master Splinter’s Daughter,spotify:track:5FF6Pyuh5jW6ybKHiaiGMy,0.486,0.503,0.508,0.0102,0.124,-11.094,0.52,81.908,0.317,49
+241,"good kid, m.A.A.d city (Deluxe)",2,5h5tBFnbcVioFXiOixTn6E,"Bitch, Don’t Kill My Vibe",spotify:track:5h5tBFnbcVioFXiOixTn6E,0.0152,0.587,0.698,0.0,0.442,-8.948,0.0943,133.954,0.0985,65
+242,"good kid, m.A.A.d city (Deluxe)",3,1BR5vhAlaoUiijQ28p6jlN,Backseat Freestyle,spotify:track:1BR5vhAlaoUiijQ28p6jlN,0.000739,0.546,0.651,0.0,0.235,-7.601,0.3,77.878,0.646,60
+243,"good kid, m.A.A.d city (Deluxe)",4,4F8rYEoiBjPaRgQXLVtN5a,The Art of Peer Pressure,spotify:track:4F8rYEoiBjPaRgQXLVtN5a,0.286,0.555,0.611,0.00106,0.273,-9.216,0.356,94.939,0.411,53
+244,"good kid, m.A.A.d city (Deluxe)",5,0UtnpKaReKUg2GquaSxCyD,Money Trees,spotify:track:0UtnpKaReKUg2GquaSxCyD,0.0703,0.716,0.531,0.0,0.224,-7.355,0.122,71.994,0.344,66
+245,"good kid, m.A.A.d city (Deluxe)",6,3MLOAIJNWWS8FQpvdaiKR7,Poetic Justice,spotify:track:3MLOAIJNWWS8FQpvdaiKR7,0.157,0.779,0.572,0.0,0.246,-9.985,0.378,135.956,0.647,60
+246,"good kid, m.A.A.d city (Deluxe)",7,0PKJxo97zXT8oAwl2zFnPh,good kid,spotify:track:0PKJxo97zXT8oAwl2zFnPh,0.0623,0.451,0.831,0.0,0.185,-8.641,0.307,176.162,0.41,51
+247,"good kid, m.A.A.d city (Deluxe)",8,3qX1dqmDdmMvvfMVfsx4Bh,m.A.A.d city,spotify:track:3qX1dqmDdmMvvfMVfsx4Bh,0.0538,0.487,0.729,4.07e-06,0.44,-6.815,0.271,91.048,0.217,67
+248,"good kid, m.A.A.d city (Deluxe)",9,40wUM3LFZOlUcZfxEIZrYK,Swimming Pools (Drank) - Extended Version,spotify:track:40wUM3LFZOlUcZfxEIZrYK,0.123,0.716,0.485,2.69e-05,0.604,-7.745,0.404,74.132,0.26,62
+249,"good kid, m.A.A.d city (Deluxe)",10,1Z2FvDFZSDQ23s4BDqpWqZ,"Sing About Me, I'm Dying Of Thirst",spotify:track:1Z2FvDFZSDQ23s4BDqpWqZ,0.303,0.654,0.753,8.08e-05,0.13,-7.556,0.395,110.722,0.371,55
+250,"good kid, m.A.A.d city (Deluxe)",11,73eGiraiU7JkIsmFyQyJAv,Real,spotify:track:73eGiraiU7JkIsmFyQyJAv,0.0282,0.652,0.458,0.0,0.664,-12.272,0.194,100.046,0.174,49
+251,"good kid, m.A.A.d city (Deluxe)",12,0O6cYePgIBlMQ0pAFate3q,Compton,spotify:track:0O6cYePgIBlMQ0pAFate3q,0.0815,0.342,0.907,0.0,0.383,-4.432,0.415,170.38,0.225,50
+252,"good kid, m.A.A.d city (Deluxe)",1,5jHilrZDaP1vJMZfdN1He3,The Recipe - Bonus Track,spotify:track:5jHilrZDaP1vJMZfdN1He3,0.000589,0.759,0.782,0.0,0.35,-6.975,0.0741,131.04,0.507,57
+253,"good kid, m.A.A.d city (Deluxe)",2,6P6HGbOoWUynE2U7yLwLnY,Black Boy Fly - Bonus Track,spotify:track:6P6HGbOoWUynE2U7yLwLnY,0.108,0.593,0.731,1.52e-06,0.103,-5.21,0.149,160.084,0.61,47
+254,"good kid, m.A.A.d city (Deluxe)",3,0NfYAsKygCYwPA2BgTZ1qg,Now Or Never - Bonus Track,spotify:track:0NfYAsKygCYwPA2BgTZ1qg,0.264,0.528,0.708,0.0,0.305,-5.879,0.207,97.8,0.781,51
+255,"good kid, m.A.A.d city (Deluxe)",4,4wshBvO4qMrxJnPlfkeUWi,"Bitch, Don’t Kill My Vibe - Remix",spotify:track:4wshBvO4qMrxJnPlfkeUWi,0.0513,0.636,0.788,0.0,0.204,-5.766,0.252,133.722,0.143,53
+256,"good kid, m.A.A.d city (Deluxe)",5,1IjxCFAyR1ysajk10iHsKh,"Bitch, Don’t Kill My Vibe - International Remix / Explicit Version",spotify:track:1IjxCFAyR1ysajk10iHsKh,0.0109,0.67,0.811,0.0,0.503,-6.61,0.0815,134.057,0.082,44
+272,"good kid, m.A.A.d city (Deluxe)",4,410Rb1xtgWVg8YKkpE3dkY,The Recipe (Black Hippy Remix) - Bonus Track,spotify:track:410Rb1xtgWVg8YKkpE3dkY,0.000588,0.723,0.758,0.0,0.357,-7.303,0.148,131.051,0.628,26
